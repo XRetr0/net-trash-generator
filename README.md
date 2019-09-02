@@ -1,5 +1,4 @@
 # net-trash-generator
-Генератор ссылок на интересные (а может и нет) сайты
 Запуск:
 python3 NetTrashGenerator.py
 
